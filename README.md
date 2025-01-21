@@ -1,4 +1,4 @@
-## About Me🦋:
+## 🦋About Me:
 
  📚 Studied **Java** and **Spring Boot** at @IT-Academy-BCN.  
  🌱 I'm currently learning **Python** to expand my skills.  
@@ -9,7 +9,7 @@
 
  #### 🌙  Featured Project:
 [✨ Virtual Pet App](https://github.com/Patrifr/SPRINT_5_VirtualPet_BackEnd)
-  A whimsical virtual pet app built with **Java**, **Spring Boot**, and a magical touch! 🧚‍♂️
+  --> A whimsical virtual pet app built with **Java**, **Spring Boot**, and a magical touch! 🧚‍♂️
   
  
 ## 💻 Technologies & Tools
